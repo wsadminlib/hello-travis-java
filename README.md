@@ -1,6 +1,6 @@
 # Hello Travis
 
-This project contains a basic starter for a java/maven project built by travis.
+A basic starter for a java/maven project built by travis.
 
 Manual command-line compile:
     mvn clean install
